@@ -1,0 +1,44 @@
+ pic for background  create logo 
+#mainid{
+  background-color: purple;
+  background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+}
+/* 
+#mynav{ color:gray;
+    font:black;  */
+
+
+
+
+#myid{
+  color:blue;
+  background-color: black;
+  
+  
+  height:300%;
+
+  
+}
+/* #mainid {background-image: url("./image/ehos.jpg");
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font-size: 150%;
+  font-family: 'Cedarville Cursive', cursive;
+    font-size:400%;
+  top: 40%;
+   left:80S%;
+  min-height: 500px;
+} */ 
+
+
+/* 
+#contactus{
+
+text-align:center;
+position: relative;
+left: 230%;
+} 
+
